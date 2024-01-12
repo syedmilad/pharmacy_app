@@ -1,0 +1,1 @@
+export {default as PurshasedView} from './purshased-view'

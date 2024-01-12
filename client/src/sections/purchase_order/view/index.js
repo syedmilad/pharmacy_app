@@ -1,0 +1,1 @@
+export {default as PurchaseOrderView} from './purchase_order'
